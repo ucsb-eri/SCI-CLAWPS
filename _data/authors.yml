@@ -1,0 +1,281 @@
+# Authors
+
+ Michael Singer:
+    name        : "Michael Bliss Singer"
+    bio         : "SCI-CLAWPS Research Group Leader"
+    email       : "bliss@eri.ucsb.edu"
+    uri         : "http://singer.eri.ucsb.edu"
+    github      : "blissville71"
+    researchgate: "Michael_Singer23"
+    google_scholar: "LT_zsYAAAAAJ&hl"
+    orcid       : "0000-0002-6899-2224"
+    linkedin    : "michael-singer-632534194"
+    twitter     : "_blissville"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Singer.jpg"
+    cv          : "/assets/files/Singer_CV.pdf"
+    
+ Andrew Chen:
+    name        : "Shiuan-An (Andrew) Chen"
+    bio         : "PhD Student"
+    email       : "sc16970@bristol.ac.uk"
+    github      : "b95208027"
+    researchgate: "Shiuan_An_Chen"
+    google_scholar: "4x5iJYQAAAAJ"
+    twitter     : "AndrewC52669470"
+    linkedin    : "宣安-陳-73591aab"
+    facebook    : "100000637832056"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Chen.jpg"
+    
+ Maria Warter:
+    name        : "Maria Magdalena Warter"
+    bio         : "PhD Student"
+    email       : "WarterM@cardiff.ac.uk"
+    google_scholar: "aFOp30MAAAAJ&hl=en&oi=ao"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Warter.jpg"
+    
+ Isaac Kipkemoi:
+    name        : "Isaac Kipkemoi"
+    bio         : "PhD Student"
+    email       : "ik17250@bristol.ac.uk"
+    google_scholar: "4x5iJYQAAAAJ"
+    twitter     : "kipkemoisaac"
+    linkedin    : "isaac-kipkemoi-13ba5951"
+    facebook    : "kipkemoi.isaac.77"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Kipkemoi.jpg"
+    
+ Li Kui:
+    name        : "Li Kui"
+    bio         : "Project Scientist"
+    email       : "li.kui@ucsb.edu"
+    google_scholar: "vX3RIkAAAAAJ&hl=en&authuser=1"
+    linkedin    : "kui2014"
+    github      : "lkuiucsb"
+    location    : "Santa Barbara, USA"
+    avatar      : "assets/images/people/Kui.jpg"
+    
+ Christopher Kibler:
+    name        : "Christopher Kibler"
+    bio         : "PhD Student"
+    email       : "kibler@ucsb.edu"
+    google_scholar: "en&authuser=3&user=lFJ38RYAAAAJ"
+    linkedin    : "christopherkibler"
+    researchgate: "Christopher_Kibler"
+    location    : "Santa Barbara, USA"
+    avatar      : "assets/images/people/Kibler.jpg"
+    
+ Thomas Myktyn:
+    name        : "Thomas Myktyn"
+    bio         : "Masters Student"
+    email       : "tmykytyn@gmail.com"
+    linkedin    : "thomas-mykytyn-aaa78124/"
+    location    : "San Jose, USA"
+    avatar      : "assets/images/people/Myktyn.jpg"
+    
+ Conor McMahon:
+    name        : "Conor McMahon"
+    bio         : "PhD Student"
+    email       : "conon.mcmahon@geog.ucsb.edu"
+    linkedin    : "conor-mcmahon-a35b9010a"
+    github      : "conormcmahon"
+    location    : "Santa Barbara, USA"
+    avatar      : "assets/images/people/McMahon.jpg"
+    
+ Romy Sabathier:
+    name        : "Romy Sabathier"
+    bio         : "PhD Student"
+    email       : "SabathierR@cardiff.ac.uk"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Sabathier.jpg"
+    
+ Lissa Pelletier:
+    name        : "Lissa Pelletier"
+    bio         : "Masters Student"
+    email       : "lpelleti@syr.edu"
+    location    : "Syracuse, USA"
+    avatar      : "assets/images/people/Pelletier2.jpg"
+    linkedin    : "lissa-pelletier-a9241191"
+    
+ Andrés Quichimbo:
+    name        : "Andrés Quichimbo"
+    bio         : "Postdoctoral Researcher"
+    email       : "QuichimboMiguitamaEA@cardiff.ac.uk"
+    google_scholar: "LJk2XqgAAAAJ&hl=ru"
+    linkedin    : "andresquichimbo"
+    twitter     : "QuichimboEA"
+    researchgate: "A_Quichimbo"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Quichimbo2.jpg"
+    
+ Marc Mayes:
+    name        : "Marc Mayes"
+    bio         : "Postdoctoral Researcher"
+    location    : "Santa Barbara, CA & <br> Princeton, NJ"
+    avatar      : "assets/images/people/Mayes.jpg"
+    google_scholar: "KH-oS7MAAAAJ&hl=en"
+    
+ Kudzai Farai Kaseke:
+    name        : "Kudzai Farai Kaseke"
+    bio         : "Associate Specialist"
+    email       : "kfkaseke@ucsb.edu"
+    researchgate: "Kudzai_Farai_Kaseke"
+    google_scholar: "0viA-akAAAAJ"
+    twitter     : "KasekeKF"
+    linkedin    : "kudzai-farai-kaseke-85760417"
+    location    : "Santa Barbara, USA"
+    avatar      : "assets/images/people/Kaseke.jpg"
+    
+ Nooshin Mehrnegar:
+    name        : "Nooshin Mehrnegar"
+    bio         : "PhD Student"
+    email       : "MehrnegarN@cardiff.ac.uk"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Mehrnegar.jpg"
+    twitter     : "NMehrnegar"
+    linkedin    : "nooshin-mehrnegar-99baa8151"
+    researchgate: "Nooshin_Mehrnegar"
+    
+ Bryn Morgan:
+    name        : "Bryn Morgan"
+    bio         : "PhD Student"
+    email       : "bmorgan@ucsb.edu"
+    location    : "Santa Barbara, CA"
+    github      : "brynemorgan"
+    avatar      : "assets/images/people/Morgan.jpg"
+    
+ Ryan Avery:
+    name        : "Ryan Avery"
+    bio         : "PhD Student"
+    email       : "ravery@ucsb.edu"
+    location    : "Santa Barbara, CA"
+    github      : "rbavery"
+    linkedin    : "ryan-avery-75b165a8"
+    avatar      : "assets/images/people/Avery.jpg"
+    
+ Jared Williams:
+    name        : "Jared Williams"
+    bio         : "Masters Student"
+    email       : "jwilli64@syr.edu"
+    location    : "Syracuse, USA"
+    avatar      : "assets/images/people/Williams.png"
+    linkedin    : "jared-williams-2b9a78121"
+    google_scholar: "_QiknP0AAAAJ&hl=en"
+    
+ Melissa Rohde:
+    name        : "Melissa Rohde"
+    bio         : "PhD Student"
+    email       : "mmrohde@esf.edu"
+    researchgate: "Melissa_Rohde"
+    google_scholar: "EQJ6EWoAAAAJ&hl=en"
+    twitter     : "melrohde"
+    linkedin    : "mmrohde"
+    location    : "Syracuse, USA"
+    avatar      : "assets/images/people/Rohde.jfif"
+    
+ Jacob Rigby:
+    name        : "Jacob Rigby"
+    bio         : "Postdoctoral Researcher"
+    email       : "j.rigby@bristol.ac.uk"
+    google_scholar: "Jh0rbWgAAAAJ&hl=en"
+    linkedin    : "jacobrigby"
+    researchgate: "Jacob_Rigby"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Rigby.jpg"
+    
+ Dagmawi Asfaw:
+    name        : "Dagmawi Asfaw"
+    bio         : "Postdoctoral Researcher"
+    email       : "d.t.asfaw@bristol.ac.uk"
+    google_scholar: "Sf7o9OAAAAAJ&hl=en"
+    linkedin    : "dagmawi-t-asfaw-0492046a"
+    researchgate: "Dagmawi_Asfaw"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Asfaw.jpg"
+    
+ David MacLeod:
+    name        : "David MacLeod"
+    bio         : "Senior Research Associate"
+    email       : "david.macleod@bristol.ac.uk"
+    google_scholar: "5XtRzu8AAAAJ&hl=en"
+    linkedin    : "dave-macleod-74575a45"
+    twitter     : "davemacleod111"
+    researchgate: "David_Macleod7"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Macleod.jpg"
+    
+ Ali Cotton:
+    name        : "Ali Cotton"
+    bio         : "Senior Project Manager"
+    email       : "cottona2@cardiff.ac.uk"
+    linkedin    : "alison-cotton-388aa864"
+    twitter     : "AliJCotton"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Cotton.jpg"
+     
+ Saskia Salwey:
+    name        : "Saskia Salwey"
+    bio         : "PhD Student"
+    email       : "saskia.salwey@bristol.ac.uk"
+    location    : "Bristol, UK"
+    linkedin    : "saskia-salwey"
+    orcid        : "0000-0002-2100-3142"
+    github      : "saskiasalwey"
+    avatar      : "assets/images/people/Salwey.jpg"
+    
+ Pierre Lochin:
+    name        : "Pierre Lochin"
+    bio         : "PhD Student"
+    email       : "pierre.lchn@gmail.com"
+    location    : "Lyon, France"
+    linkedin    : "pierre-lochin-0b9366177"
+    avatar      : "assets/images/people/Lochin.jpg"
+    
+ Eferhonore Efe-Eyefia:
+    name        : "Eferhonore Efe-Eyefia"
+    bio         : "PhD Student"
+    email       : "Efe-EyefiaE@cardiff.ac.uk"
+    location    : "Cardiff, UK"
+    linkedin    : "eferhonore-efe-eyefia-69008b49/ "
+    google_scholar: "2t2xqjYAAAAJ&view_op=list_works&gmla=AJsN-F5ffPrPjsMPduV9teCIbgZ75xGahGSW_EOMUtjw2okGZQUBXOWrYQVyUeVzhCrNAJVCRLVAKovJQUnorfz8t-k6QrVCmA"
+    avatar      : "assets/images/people/Efe-Eyefia.jpg"
+
+ Manuel Rios Gaona:
+    name        : "Manuel Rios Gaona"
+    bio         : "Postdoctoral Researcher"
+    email       : "RiosGaonaM@cardiff.ac.uk"
+    github      : "feliperiosg"
+    researchgate: "M-F-Rios-Gaona-2074926431"
+    google_scholar: "MLObfisAAAAJ&hl=en"
+    orcid       : "0000-0003-3717-1738"
+    linkedin    : "feliperiosg"
+    twitter     : "fel_lx"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Rios.jpg"
+    
+ Toby Pitts:
+    name        : "Toby Pitts"
+    bio         : "D2E Project Manager"
+    email       : "pittst1@cardiff.ac.uk"
+    linkedin    : "toby-pitts-6b9394109"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/TPitts.jpg"
+    
+ Katherine Cocking:
+    name        : "Katherine Cocking"
+    bio         : "CU PhD Student"
+    email       : "CockingK@cardiff.ac.uk"
+    twitter     : "KatsClimate"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Cocking.jpg"
+
+ George Blake:
+    name        : "George Blake"
+    bio         : "UoB PhD Student"
+    email       : "george.blake@bristol.ac.uk"
+    twitter     : "george_blakey"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Blake.jpg"
+    

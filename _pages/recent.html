@@ -1,0 +1,19 @@
+---
+layout: splash
+permalink: /recent/
+title: "Latest News"
+author_profile: false
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/IMG_20190310_165743_2.jpg
+excerpt: 'The latest news for the SCI-CLAWPS Research Group.<br /><br /><br /><br /><br /><br /><br /><br />'
+
+---
+
+{% for post in site.posts limit:20 %}
+        {% include archive-single.html %}
+{% endfor %}
+
+
+
+
