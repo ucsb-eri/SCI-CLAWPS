@@ -13,43 +13,46 @@ excerpt: "Here is a list of publications by the research group."
 
 ## In Preparation (for upcoming submission)
 
-85) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
+86) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
 
-84) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
+85) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
 
-83) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 			
+84) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 			
 
-82) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A.; Increased groundwater dependence of riparian vegetation in response to atmospheric drought conditions 		
+83) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A.; Increased groundwater dependence of riparian vegetation in response to atmospheric drought conditions 		
    
 ## In Review/Revision
+
+82) *Lochin, P., Malherbe, P., Marteau, B., Godfroy, J., Gerle, F., Marshall, J., Puijalon, S., Singer, M.B., Stella, J.C., Piégay, H., Vernay, A. (In Review); The Ant and the Grasshopper: contrasting responses and behaviors to water stress of riparian trees along a hydroclimatic gradient
 
 81) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); The impact of model resolution on the water balance of a dryland basin
 
 80) Salwey, S., Coxon, G., Pianosi, F., Lane, R., Hutton, C., **Singer, M.B.**, McMillan, H., Freer, J. (In Review); Developing water supply reservoir operating rules for large-scale hydrological modelling
 
-79) *Rohde, M.M., Albano, C.M., Huggins, X., Klausmeyer, K.R., Morton, C., Sharman, A., Zaveri, E., Saito, L., Freed, Z., Howard, J.K., Job, N., Richter, H., Toderich, K., Rodella, A-S., Gleeson, T., Huntington, J., Chandanpurkar, H.A., Purdy, A.J., Famiglietti, J.S., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Stella, J.C. (In Review); Groundwater-dependent ecosystem map exposes global dryland protection needs
+79) *Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (In Review);; Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data
 
-78) *Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (In Review);; Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data
-
-77) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Revision); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya	
+78) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Revision); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya	
 	
-76) *Koppa, A., *Keune, J., Schumacher, D., Michaelides, K., **Singer, M.B.**, Seneviratne, S., Miralles, D.G. (In Review); Global dryland self-expansion enabled by land–atmosphere feedbacks	
+77) *Koppa, A., *Keune, J., Schumacher, D., Michaelides, K., **Singer, M.B.**, Seneviratne, S., Miralles, D.G. (In Review); Global dryland self-expansion enabled by land–atmosphere feedbacks	
 
-75) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (In Review); STORM v.2: A simple, stochastic decision-support tool for exploring the impacts of climate, and climate change at, and near the land surface in gauged watersheds		
+76) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (In Review); STORM v.2: A simple, stochastic decision-support tool for exploring the impacts of climate, and climate change at, and near the land surface in gauged watersheds		
 
-74) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
+75) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
 
-73) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (In Review); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient
+74) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (In Review); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient
 
-72) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Revision); Climatic controls on the length and shape of the world’s drainage basins 		
+73) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Revision); Climatic controls on the length and shape of the world’s drainage basins 		
    
-71) *Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands 
+72) *Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands 
 
 ## 2024
 
+71) *Rohde, M.M., Albano, C.M., Huggins, X., Klausmeyer, K.R., Morton, C., Sharman, A., Zaveri, E., Saito, L., Freed, Z., Howard, J.K., Job, N., Richter, H., Toderich, K., Rodella, A-S., Gleeson, T., Huntington, J., Chandanpurkar, H.A., Purdy, A.J., Famiglietti, J.S., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Stella, J.C. (In Press); Groundwater-dependent ecosystem map exposes global dryland protection needs, _Nature_, doi:[](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rohde_etal_2024b.pdf).
+
 70) *Williams, J., Stella, J.C., **Singer, M.B.**, Lambert, A.M., Voelker, S.L., Drake, J.E., Friedman, J.M., Pelletier, L., Kui, L., Roberts, D.A. (In Press); Seasonal and species-level water-use strategies and groundwater dependence in dryland riparian woodlands during extreme drought, _Water Resources Research_, doi:[](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Williams_etal_2024.pdf).
 
-69) *Rohde, M.M., Stella, J.C., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Albano, C.M. (In Press); Establishing ecological thresholds and targets for groundwater management, _Nature Water_, doi:[](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rohde_etal_2024.pdf).
+#### The following paper has received [media attention](/media/) and was written up as [blog post](https://communities.springernature.com/posts/underfoot-and-overlooked-groundwater-s-key-role-in-ecosystem-resilience?utm_source=user_mailer&utm_medium=email&utm_campaign=notify_contributor_about_creating_a_post) and a [News and Views article](https://www.nature.com/articles/s44221-024-00229-2).
+69) *Rohde, M.M., Stella, J.C., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Albano, C.M. (2024); Establishing ecological thresholds and targets for groundwater management, _Nature Water_, doi:[10.1038/s44221-024-00221-w](https://doi.org/10.1038/s44221-024-00221-w). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rohde_etal_2024.pdf).
 
 68) *McMahon, C., **Singer, M.B.**, Stella, J.C., Caylor, K., Trugman, A., Roberts, D.A. (2024); A river runs through it: Robust automated mapping of riparian woodlands and land surface phenology across dryland regions, _Remote Sensing of Environment_, 305, 114056, doi:[10.1016/j.rse.2024.114056](https://www.sciencedirect.com/science/article/pii/S0034425724000671). [<span style="color:red">pdf</span>](../assets/pdfs/publications/McMahon_etal_2024.pdf).		
 
