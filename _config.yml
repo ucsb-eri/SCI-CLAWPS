@@ -10,6 +10,7 @@ locale                   : "en"
 title                    : "SCIence of Climate, LAnd, Water, <br>Plants, & Society (SCI-CLAWPS)"
 title_separator          : "-"
 name                     : "Michael Singer"
+theme                    : minimal-mistakes-jekyll
 description              : "Understanding the influence of climate on water, land, vegetation, and people."
 url                      : http://singer.eri.ucsb.edu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
