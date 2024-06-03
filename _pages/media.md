@@ -12,9 +12,9 @@ excerpt: "Media and blogosphere attention for research by our group."
 
 *Rohde, M.M., Stella, J.C., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Albano, C.M. (2024); Establishing ecological thresholds and targets for groundwater management, _Nature Water_, doi:[10.1038/s44221-024-00221-w](https://doi.org/10.1038/s44221-024-00221-w). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rohde_etal_2024.pdf).
 
-[Author Blog Post](https://communities.springernature.com/posts/underfoot-and-overlooked-groundwater-s-key-role-in-ecosystem-resilience?utm_source=user_mailer&utm_medium=email&utm_campaign=notify_contributor_about_creating_a_post)
-[Los Angeles Times](https://www.latimes.com/environment/story/2024-05-26/groundwater-ecosystems-scientist)
-[Nature Water News and Views](https://www.nature.com/articles/s44221-024-00229-2)
+[Author Blog Post](https://communities.springernature.com/posts/underfoot-and-overlooked-groundwater-s-key-role-in-ecosystem-resilience?utm_source=user_mailer&utm_medium=email&utm_campaign=notify_contributor_about_creating_a_post)<br>
+[Los Angeles Times](https://www.latimes.com/environment/story/2024-05-26/groundwater-ecosystems-scientist)<br>
+[Nature Water News and Views](https://www.nature.com/articles/s44221-024-00229-2)<br>
 
 *Rohde, M., Stella, J., Roberts, D., **Singer, M.B.**, (2021); Groundwater dependence of riparian woodlands and the disrupting effect of anthropogenically altered streamflow, _Proceedings of the National Academy of Sciences (PNAS)_, 118(25), e2026453118, doi:[10.1073/pnas.2026453118](https://www.pnas.org/content/118/25/e2026453118). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rohde_etal_2021.pdf) 
  
@@ -22,7 +22,7 @@ excerpt: "Media and blogosphere attention for research by our group."
 [Inside Climate News](https://insideclimatenews.org/news/06072021/forests-of-the-living-dead/)<br>
 [Treehugger](https://www.treehugger.com/california-water-management-river-ecosystem-damange-5190309)<br>
 [UCSB Press Release](https://www.news.ucsb.edu/2021/020328/biodiversity-imperiled)<br>
-[Cardiff Press Release](https://www.cardiff.ac.uk/news/view/2526790-live-fast,-die-young-cycle-threatening-californias-ecosystems)
+[Cardiff Press Release](https://www.cardiff.ac.uk/news/view/2526790-live-fast,-die-young-cycle-threatening-californias-ecosystems)<br>
 
 *Chen, S-A., Michaelides, K., Grieve, S.W.D., **Singer, M.B.** (2019); Aridity is expressed in river topography profiles globally, _Nature_, doi: [	10.1038/s41586-019-1558-8]( https://www.nature.com/articles/s41586-019-1558-8). [<span style="color:red">pdf</span>](http://nature.com)
 
