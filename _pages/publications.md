@@ -35,17 +35,17 @@ excerpt: "Here is a list of publications by the research group."
 	
 77) *Koppa, A., *Keune, J., Schumacher, D., Michaelides, K., **Singer, M.B.**, Seneviratne, S., Miralles, D.G. (In Review); Global dryland self-expansion enabled by land–atmosphere feedbacks	
 
-76) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (In Review); STORM v.2: A simple, stochastic decision-support tool for exploring the impacts of climate, and climate change at, and near the land surface in gauged watersheds		
+76) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
 
-75) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
+75) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (In Review); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient
 
-74) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (In Review); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient
-
-73) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Revision); Climatic controls on the length and shape of the world’s drainage basins 		
+74) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Revision); Climatic controls on the length and shape of the world’s drainage basins 		
    
-72) *Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands 
+73) *Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands 
 
 ## 2024
+
+72) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (In Press); STORM v.2: A simple, stochastic decision-support tool for exploring the impacts of climate, and climate change at, and near the land surface in gauged watersheds, _Geoscientific Model Development_, doi:[](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/RiosGaona_etal_2024.pdf).		
 
 71) *Rohde, M.M., Albano, C.M., Huggins, X., Klausmeyer, K.R., Morton, C., Sharman, A., Zaveri, E., Saito, L., Freed, Z., Howard, J.K., Job, N., Richter, H., Toderich, K., Rodella, A-S., Gleeson, T., Huntington, J., Chandanpurkar, H.A., Purdy, A.J., Famiglietti, J.S., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Stella, J.C. (In Press); Groundwater-dependent ecosystem map exposes global dryland protection needs, _Nature_, doi:[](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rohde_etal_2024b.pdf).
 
