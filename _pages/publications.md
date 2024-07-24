@@ -13,17 +13,19 @@ excerpt: "Here is a list of publications by the research group."
 
 ## In Preparation (for upcoming submission)
 
-86) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
+87) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
 
-85) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
+86) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
 
-84) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 			
+85) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 			
 
-83) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A.; Increased groundwater dependence of riparian vegetation in response to atmospheric drought conditions 		
+84) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A.; Increased groundwater dependence of riparian vegetation in response to atmospheric drought conditions 		
    
 ## In Review/Revision
 
-82) *Lochin, P., Malherbe, P., Marteau, B., Godfroy, J., Gerle, F., Marshall, J., Puijalon, S., Singer, M.B., Stella, J.C., Piégay, H., Vernay, A. (In Review); The Ant and the Grasshopper: contrasting responses and behaviors to water stress of riparian trees along a hydroclimatic gradient
+83) Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (In Review); Co-produced impact-based seasonal outlooks
+
+82) *Lochin, P., Malherbe, P., Marteau, B., Godfroy, J., Gerle, F., Marshall, J., Puijalon, S., **Singer, M.B.**, Stella, J.C., Piégay, H., Vernay, A. (In Review); The Ant and the Grasshopper: contrasting responses and behaviors to water stress of riparian trees along a hydroclimatic gradient
 
 81) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); The impact of model resolution on the water balance of a dryland basin
 
@@ -37,13 +39,13 @@ excerpt: "Here is a list of publications by the research group."
 
 76) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (In Review); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient
 
-75) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Revision); Climatic controls on the length and shape of the world’s drainage basins 		
+75) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Review); Climatic controls on the length and shape of the world’s drainage basins 		
    
 74) *Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands 
 
 ## 2024
 
-73) *Koppa, A., *Keune, J., Schumacher, D., Michaelides, K., **Singer, M.B.**, Seneviratne, S., Miralles, D.G. (In Press); Global dryland self-expansion enabled by land–atmosphere feedbacks, _Science_	
+73) *Koppa, A., *Keune, J., Schumacher, D., Michaelides, K., **Singer, M.B.**, Seneviratne, S., Miralles, D.G. (In Press); Global dryland self-expansion enabled by land–atmosphere feedbacks, _Science_, doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Koppa_etal_2024.pdf).	
 
 72) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (2024); STORM v.2: A simple, stochastic decision-support tool for exploring the impacts of climate, and climate change at and near the land surface in gauged watersheds, _Geoscientific Model Development_, 17(13):5387-5412,
 doi:[10.5194/gmd-17-5387-2024](https://gmd.copernicus.org/articles/17/5387/2024/). [<span style="color:red">pdf</span>](../assets/pdfs/publications/RiosGaona_etal_2024.pdf).		
