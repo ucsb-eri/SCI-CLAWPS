@@ -29,7 +29,7 @@ excerpt: "Here is a list of publications by the research group."
 
 81) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); The impact of model resolution on the water balance of a dryland basin
 
-80) Salwey, S., Coxon, G., Pianosi, F., Lane, R., Hutton, C., **Singer, M.B.**, McMillan, H., Freer, J. (In Review); Developing water supply reservoir operating rules for large-scale hydrological modelling
+80) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
 
 79) *Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (In Review);; Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data
 
@@ -40,10 +40,10 @@ excerpt: "Here is a list of publications by the research group."
 76) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (In Review); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient
 
 75) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Review); Climatic controls on the length and shape of the world’s drainage basins 		
-   
-74) *Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands 
 
 ## 2024
+
+74) *Salwey, S., Coxon, G., Pianosi, F., Lane, R., Hutton, C., **Singer, M.B.**, McMillan, H., Freer, J. (In Press); Developing water supply reservoir operating rules for large-scale hydrological modelling, _Hydrology and Earth System Sciences (HESS)_, doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Salwey_etal_2024.pdf).
 
 73) *Koppa, A., *Keune, J., Schumacher, D., Michaelides, K., **Singer, M.B.**, Seneviratne, S., Miralles, D.G. (In Press); Global dryland self-expansion enabled by land–atmosphere feedbacks, _Science_, doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Koppa_etal_2024.pdf).	
 
