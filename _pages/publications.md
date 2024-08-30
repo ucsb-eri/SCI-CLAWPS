@@ -25,27 +25,27 @@ excerpt: "Here is a list of publications by the research group."
 
 83) Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (In Review); Co-produced impact-based seasonal outlooks
 
-82) *Lochin, P., Malherbe, P., Marteau, B., Godfroy, J., Gerle, F., Marshall, J., Puijalon, S., **Singer, M.B.**, Stella, J.C., Piégay, H., Vernay, A. (In Review); The Ant and the Grasshopper: contrasting responses and behaviors to water stress of riparian trees along a hydroclimatic gradient
+82) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); The impact of model resolution on the water balance of a dryland basin
 
-81) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); The impact of model resolution on the water balance of a dryland basin
+81) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
 
-80) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
+80) *Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (In Review); Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data
 
-79) *Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (In Review);; Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data
-
-78) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Revision); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya	
+79) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Revision); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya	
 	
-77) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
+78) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
 
-76) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (In Review); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient
+77) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (In Review); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient
 
-75) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Review); Climatic controls on the length and shape of the world’s drainage basins 		
+76) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Review); Climatic controls on the length and shape of the world’s drainage basins 		
 
 ## 2024
 
+75) *Lochin, P., Malherbe, P., Marteau, B., Godfroy, J., Gerle, F., Marshall, J., Puijalon, S., **Singer, M.B.**, Stella, J.C., Piégay, H., Vernay, A. (In Press); The Ant and the Grasshopper: contrasting responses and behaviors to water stress of riparian trees along a hydroclimatic gradient, _Science of the Total Environment_, doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024.pdf).
+
 74) *Salwey, S., Coxon, G., Pianosi, F., Lane, R., Hutton, C., **Singer, M.B.**, McMillan, H., Freer, J. (In Press); Developing water supply reservoir operating rules for large-scale hydrological modelling, _Hydrology and Earth System Sciences (HESS)_, doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Salwey_etal_2024.pdf).
 
-73) *Koppa, A., *Keune, J., Schumacher, D., Michaelides, K., **Singer, M.B.**, Seneviratne, S., Miralles, D.G. (In Press); Global dryland self-expansion enabled by land–atmosphere feedbacks, _Science_, doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Koppa_etal_2024.pdf).	
+73) *Koppa, A., *Keune, J., Schumacher, D., Michaelides, K., **Singer, M.B.**, Seneviratne, S., Miralles, D.G. (2024); Global dryland self-expansion enabled by land–atmosphere feedbacks, _Science_, 385(6712):967-972, doi:[10.1126/science.adn6833](https://www.science.org/doi/10.1126/science.adn6833). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Koppa_etal_2024.pdf).	
 
 72) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (2024); STORM v.2: A simple, stochastic decision-support tool for exploring the impacts of climate, and climate change at and near the land surface in gauged watersheds, _Geoscientific Model Development_, 17(13):5387-5412,
 doi:[10.5194/gmd-17-5387-2024](https://gmd.copernicus.org/articles/17/5387/2024/). [<span style="color:red">pdf</span>](../assets/pdfs/publications/RiosGaona_etal_2024.pdf).		
