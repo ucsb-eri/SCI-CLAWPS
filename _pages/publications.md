@@ -41,7 +41,7 @@ excerpt: "Here is a list of publications by the research group."
 
 ## 2024
 
-75) *Lochin, P., Malherbe, P., Marteau, B., Godfroy, J., Gerle, F., Marshall, J., Puijalon, S., **Singer, M.B.**, Stella, J.C., Piégay, H., Vernay, A. (In Press); The Ant and the Grasshopper: contrasting responses and behaviors to water stress of riparian trees along a hydroclimatic gradient, _Science of the Total Environment_, doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024.pdf).
+75) *Lochin, P., Malherbe, P., Marteau, B., Godfroy, J., Gerle, F., Marshall, J., Puijalon, S., **Singer, M.B.**, Stella, J.C., Piégay, H., Vernay, A. (2024); The Ant and the Grasshopper: contrasting responses and behaviors to water stress of riparian trees along a hydroclimatic gradient, _Science of the Total Environment_, 952:175916, doi:[10.1016/j.scitotenv.2024.175916](https://www.sciencedirect.com/science/article/pii/S0048969724060728?via%3Dihub), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024.pdf).
 
 74) *Salwey, S., Coxon, G., Pianosi, F., Lane, R., Hutton, C., **Singer, M.B.**, McMillan, H., Freer, J. (In Press); Developing water supply reservoir operating rules for large-scale hydrological modelling, _Hydrology and Earth System Sciences (HESS)_, doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Salwey_etal_2024.pdf).
 
