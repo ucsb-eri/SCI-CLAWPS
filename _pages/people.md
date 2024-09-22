@@ -14,13 +14,6 @@ excerpt: "Past/present people in the SCI-CLAWPS research group."
 ![Michael Bliss Singer](../assets/images/people/Singer.jpg){:class="img-responsive"}<br>
 [Michael Bliss Singer]({% link _people/singer.md %})
 
-## DOWN2EARTH Project Manager
-
-![Toby Pitts](../assets/images/people/TPitts.jpg){:class="img-responsive"}<br>
-[Toby Pitts]({% link _people/tpitts.md %}), Funding: [EU Horizon 2020 Project DOWN2EARTH](https://cordis.europa.eu/project/id/869550)<br>
-[School of Earth and Environmental Sciences](https://www.cardiff.ac.uk/earth-environmental-sciences) [Cardiff University](https://www.cardiff.ac.uk/)<br>
-
-
 ## Current Postdocs
 #### (Singer's role in parentheses)
 
@@ -37,10 +30,6 @@ excerpt: "Past/present people in the SCI-CLAWPS research group."
 [Dagmawi Asfaw]({% link _people/asfaw.md %}), Postdoctoral Researcher (Co-Advisor), Funding: [The Royal Society](https://royalsociety.org/grants-schemes-awards/grants/challenge-led-grants/)<br>
 [School of Geographical Sciences](http://www.bristol.ac.uk/geography/) [University of Bristol](https://www.bristol.ac.uk/)<br>
 
-![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
-[Jacob Rigby]({% link _people/rigby.md %}), Postdoctoral Researcher (Co-Advisor), Funding: [Global Challenges Research Fund](https://www.ukri.org/research/global-challenges-research-fund/)<br>
-[School of Geographical Sciences](http://www.bristol.ac.uk/geography/) [University of Bristol](https://www.bristol.ac.uk/)<br>
-
 ## Current PhD Students 
 #### (Singer's role in parentheses)
 
@@ -55,25 +44,10 @@ excerpt: "Past/present people in the SCI-CLAWPS research group."
 [School of Earth & Environmental Sciences](https://www.cardiff.ac.uk/earth-environmental-sciences), [Cardiff University](https://www.cardiff.ac.uk)<br>
 **Thesis: Climate change projections and impacts in the Horn of Africa Drylands** (_2021-_)
 
-![Pierre Lochin](../assets/images/people/Lochin.jpg){:class="img-responsive"}<br>
-[Pierre Lochin]({% link _people/lochin.md %}), PhD (Co-Advisor), Funding: [H2O'Lyon](https://h2olyon.universite-lyon.fr/h2o-90225.kjsp)<br>
-[Université de Lyon](https://www.universite-lyon.fr/version-anglaise/).<br>
-**Thesis: Controls on riparian forest water availability and corresponding vegetation responses** (_2021-_)
-
-![Saskia Salwey](../assets/images/people/Salwey.jpg){:class="img-responsive"}<br>
-[Saskia Salwey]({% link _people/salwey.md %}), PhD (Co-Advisor), Funding: [NERC GW4 Doctoral Training Programme](https://www.nercgw4plus.ac.uk/)<br>
-[School of Geographical Sciences](http://www.bristol.ac.uk/geography/), [University of Bristol](http://www.bristol.ac.uk).<br>
-**Thesis: Modelling reservoir storage at catchment to regional scales** (_2020-_)
-
 ![Conor McMahon](../assets/images/people/McMahon.jpg){:class="img-responsive"}
 <br>[Conor McMahon]({% link _people/mcmahon.md %}), PhD (Co-Advisor), Funding: [Strategic Environmental Research and Development Program (US Department of Defense)](https://www.serdp-estcp.org/)<br>
 [Department of Geography](https://geog.ucsb.edu/), [UC Santa Barbara](https://www.ucsb.edu/)<br>
 **Thesis: Fractional pixel signature of riparian forest stress in response to water availability** (_2019-_)
-
-![Bryn Morgan](../assets/images/people/Morgan.jpg){:class="img-responsive"}<br>
-[Bryn Morgan]({% link _people/morgan.md %}), PhD (Co-Advisor), Funding: [National Science Foundation Hydrologic Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13684) and [SERDP (DoD)](https://www.serdp-estcp.org/)<br>
-[Department of Geography](https://geog.ucsb.edu/), [UC Santa Barbara](https://www.ucsb.edu/)<br>
-**Thesis: Modeling and measuring climate-controlled water availability in riparian forests** (_2018-2023_)
 
 ![Jared Williams](../assets/images/people/Williams.png){:class="img-responsive"}<br>
 [Jared Williams]({% link _people/williams.md %}), PhD (Co-Advisor), Funding: [National Science Foundation Geography & Spatial Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505034)<br>
@@ -84,6 +58,10 @@ excerpt: "Past/present people in the SCI-CLAWPS research group."
 
  
 ## Past Postdoctoral Researchers
+
+![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
+[Jacob Rigby]({% link _people/rigby.md %}), Postdoctoral Researcher (Co-Advisor), Funding: [Global Challenges Research Fund](https://www.ukri.org/research/global-challenges-research-fund/)<br>
+[School of Geographical Sciences](http://www.bristol.ac.uk/geography/) [University of Bristol](https://www.bristol.ac.uk/)<br>
 
 ![Li Kui](../assets/images/people/Kui.jpg){:class="img-responsive"}<br>
 [Li Kui]({% link _people/kui.md %}), Postdoctoral Researcher (Advisor), Funding: [National Science Foundation Geography & Spatial Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505034) and [The Nature Conservancy](https://www.tnc.org)<br>
@@ -98,6 +76,21 @@ excerpt: "Past/present people in the SCI-CLAWPS research group."
 [Earth Research Insitute](https://eri.ucsb.edu/), [UC Santa Barbara](https://www.ucsb.edu/)<br>
 
 ## Past Graduate Students (PhD and Masters)
+
+![Pierre Lochin](../assets/images/people/Lochin.jpg){:class="img-responsive"}<br>
+[Pierre Lochin]({% link _people/lochin.md %}), PhD (Co-Advisor), Funding: [H2O'Lyon](https://h2olyon.universite-lyon.fr/h2o-90225.kjsp)<br>
+[Université de Lyon](https://www.universite-lyon.fr/version-anglaise/).<br>
+**Thesis: Controls on riparian forest water availability and corresponding vegetation responses** (_2021-2024_)
+
+![Bryn Morgan](../assets/images/people/Morgan.jpg){:class="img-responsive"}<br>
+[Bryn Morgan]({% link _people/morgan.md %}), PhD (Co-Advisor), Funding: [National Science Foundation Hydrologic Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13684) and [SERDP (DoD)](https://www.serdp-estcp.org/)<br>
+[Department of Geography](https://geog.ucsb.edu/), [UC Santa Barbara](https://www.ucsb.edu/)<br>
+**Thesis: Modeling and measuring climate-controlled water availability in riparian forests** (_2018-2023_)
+
+![Saskia Salwey](../assets/images/people/Salwey.jpg){:class="img-responsive"}<br>
+[Saskia Salwey]({% link _people/salwey.md %}), PhD (Co-Advisor), Funding: [NERC GW4 Doctoral Training Programme](https://www.nercgw4plus.ac.uk/)<br>
+[School of Geographical Sciences](http://www.bristol.ac.uk/geography/), [University of Bristol](http://www.bristol.ac.uk).<br>
+**Thesis: Modelling reservoir storage at catchment to regional scales** (_2020-2024_)
 
 ![Melissa Rohde](../assets/images/people/Rohde.jfif){:class="img-responsive"}<br>
 [Melissa Rohde]({% link _people/rohde.md %}), PhD (Co-Advisor), Funding: [National Science Foundation Geography & Spatial Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505034)<br>

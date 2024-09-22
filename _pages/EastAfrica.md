@@ -26,6 +26,14 @@ A major challenge in HAD is to improve understanding of the spatiotemporal distr
 Mobile phone App Development for Drought Adaptation in Drylands (MADDAD). Funded by [UK Research and Innovation Global Challenges Research Fund (GCRF)](https://www.ukri.org/research/global-challenges-research-fund/), K. Michaelides, C. Preist, D. Schien, **M. Singer (co-PI)**, M. Cuthbert, D. Mitchell, R. Rosolem, T. Waema, A. Wausi, _2019-2021_
 
 ## Publications on this research theme include:<br>
+
+*Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (2024); STORM v.2: A simple, stochastic decision-support tool for exploring the impacts of climate, and climate change at and near the land surface in gauged watersheds, _Geoscientific Model Development_, 17(13):5387-5412,
+doi:[10.5194/gmd-17-5387-2024](https://gmd.copernicus.org/articles/17/5387/2024/). [<span style="color:red">pdf</span>](../assets/pdfs/publications/RiosGaona_etal_2024.pdf).	
+
+MacLeod, D., Kolstad, E.W., Michaelides, K., **Singer, M.B.** (2024); Sensitivity of rainfall extremes to unprecedented Indian Ocean Dipole events, _Geophysical Research Letters_, 51(5), e2023GL105258, doi:[10.1029/2023GL105258](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL105258). [<span style="color:red">pdf</span>](../assets/pdfs/publications/MacLeod_etal_2024.pdf).
+
+*Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., *MacLeod, D.A., *Asfaw, D.T., Cuthbert, M.O. (2023); Assessing the sensitivity of modelled water partitioning to global precipitation datasets in a data-scarce dryland region, _Hydrological Processes_, 37(12), doi:[10.1002/hyp.15047](https://onlinelibrary.wiley.com/doi/10.1002/hyp.15047), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Quichimbo_etal_2023.pdf).
+
 *Kipkemoi, I., Michaelides, K., **Singer, M.B.**, Rosolem, R. (In Preparation); Climatic expression of rainfall on soil moisture dynamics in drylands
 
 *Rigby, J. M., & Preist, C. (2023). Towards User-Centred Climate Services: the Role of Human-Computer Interaction. Paper presented at the Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, Hamburg, Germany. doi:[10.1145/3544548.3580663](https://doi.org/10.1145/3544548.3580663). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rigby_Preist_2023.pdf) 
