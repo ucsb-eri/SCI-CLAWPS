@@ -47,7 +47,7 @@ excerpt: "Here is a list of publications by the research group."
 
 73) *Koppa, A., *Keune, J., Schumacher, D., Michaelides, K., **Singer, M.B.**, Seneviratne, S., Miralles, D.G. (2024); Global dryland self-expansion enabled by land–atmosphere feedbacks, _Science_, 385(6712):967-972, doi:[10.1126/science.adn6833](https://www.science.org/doi/10.1126/science.adn6833). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Koppa_etal_2024.pdf).	
 
-72) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (2024); STORM v.2: A simple, stochastic decision-support tool for exploring the impacts of climate, and climate change at and near the land surface in gauged watersheds, _Geoscientific Model Development_, 17(13):5387-5412,
+72) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (2024); STORM v.2: A simple, stochastic rainfall model for exploring the impacts of climate and climate change at and near the land surface in gauged watersheds, _Geoscientific Model Development_, 17(13):5387-5412,
 doi:[10.5194/gmd-17-5387-2024](https://gmd.copernicus.org/articles/17/5387/2024/). [<span style="color:red">pdf</span>](../assets/pdfs/publications/RiosGaona_etal_2024.pdf).		
 
 71) *Rohde, M.M., Albano, C.M., Huggins, X., Klausmeyer, K.R., Morton, C., Sharman, A., Zaveri, E., Saito, L., Freed, Z., Howard, J.K., Job, N., Richter, H., Toderich, K., Rodella, A-S., Gleeson, T., Huntington, J., Chandanpurkar, H.A., Purdy, A.J., Famiglietti, J.S., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Stella, J.C. (2024); Groundwater-dependent ecosystem map exposes global dryland protection needs, _Nature_, 632:101–107, doi:[10.1038/s41586-024-07702-8](https://www.nature.com/articles/s41586-024-07702-8
