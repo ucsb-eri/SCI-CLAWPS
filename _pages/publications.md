@@ -29,17 +29,17 @@ excerpt: "Here is a list of publications by the research group."
 
 81) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
 
-80) *Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (In Review); Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data
-
-79) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Revision); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya	
+80) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Revision); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya	
 	
-78) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
+79) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
 
-77) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (In Review); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient
-
-76) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Review); Climatic controls on the length and shape of the world’s drainage basins 		
+78) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Review); Climatic controls on the length and shape of the world’s drainage basins 		
 
 ## 2024
+
+77) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (2024); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient, _Ecohydrology_, 952:175916, doi:[10.1002/eco.2729](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024b.pdf).
+
+76) *Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (2024-In Press); Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data, _Journal of Hydrometeorology_, , doi:[](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Cocking_etal_2024.pdf).
 
 75) *Lochin, P., Malherbe, P., Marteau, B., Godfroy, J., Gerle, F., Marshall, J., Puijalon, S., **Singer, M.B.**, Stella, J.C., Piégay, H., Vernay, A. (2024); The Ant and the Grasshopper: contrasting responses and behaviors to water stress of riparian trees along a hydroclimatic gradient, _Science of the Total Environment_, 952:175916, doi:[10.1016/j.scitotenv.2024.175916](https://www.sciencedirect.com/science/article/pii/S0048969724060728?via%3Dihub). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024.pdf).
 
@@ -47,7 +47,7 @@ excerpt: "Here is a list of publications by the research group."
 
 73) *Koppa, A., *Keune, J., Schumacher, D., Michaelides, K., **Singer, M.B.**, Seneviratne, S., Miralles, D.G. (2024); Global dryland self-expansion enabled by land–atmosphere feedbacks, _Science_, 385(6712):967-972, doi:[10.1126/science.adn6833](https://www.science.org/doi/10.1126/science.adn6833). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Koppa_etal_2024.pdf).	
 
-72) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (2024); STORM v.2: A simple, stochastic rainfall model for exploring the impacts of climate and climate change at and near the land surface in gauged watersheds, _Geoscientific Model Development_, 17(13):5387-5412,
+72) *Rios Gaona, M.F., **Singer, M.B.**, Michaelides, K. (2024); STORM v.2: A simple, stochastic rainfall model for exploring the impacts of climate and climate change at and near the land surface in gauged watersheds, _Geoscientific Model Development_, 17(13):5387-5412,
 doi:[10.5194/gmd-17-5387-2024](https://gmd.copernicus.org/articles/17/5387/2024/). [<span style="color:red">pdf</span>](../assets/pdfs/publications/RiosGaona_etal_2024.pdf).		
 
 71) *Rohde, M.M., Albano, C.M., Huggins, X., Klausmeyer, K.R., Morton, C., Sharman, A., Zaveri, E., Saito, L., Freed, Z., Howard, J.K., Job, N., Richter, H., Toderich, K., Rodella, A-S., Gleeson, T., Huntington, J., Chandanpurkar, H.A., Purdy, A.J., Famiglietti, J.S., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Stella, J.C. (2024); Groundwater-dependent ecosystem map exposes global dryland protection needs, _Nature_, 632:101–107, doi:[10.1038/s41586-024-07702-8](https://www.nature.com/articles/s41586-024-07702-8
@@ -55,7 +55,7 @@ doi:[10.5194/gmd-17-5387-2024](https://gmd.copernicus.org/articles/17/5387/2024/
 
 70) *Williams, J., Stella, J.C., **Singer, M.B.**, Lambert, A.M., Voelker, S.L., Drake, J.E., Friedman, J.M., Pelletier, L., Kui, L., Roberts, D.A. (2024); Seasonal and species-level water-use strategies and groundwater dependence in dryland riparian woodlands during extreme drought, _Water Resources Research_, 60(4), e2023WR035928, doi:[10.1029/2023WR035928](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR035928). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Williams_etal_2024.pdf).
 
-#### The following paper has received [media attention](/media/) and was written up as [blog post](https://communities.springernature.com/posts/underfoot-and-overlooked-groundwater-s-key-role-in-ecosystem-resilience?utm_source=user_mailer&utm_medium=email&utm_campaign=notify_contributor_about_creating_a_post) and a [News and Views article](https://www.nature.com/articles/s44221-024-00229-2).
+#### The following paper has received [media attention](/media/) and was written up as [blog post](https://communities.springernature.com/posts/underfoot-and-overlooked-groundwater-s-key-role-in-ecosystem-resilience?utm_source=user_mailer&utm_medium=email&utm_campaign=notify_contributor_about_creating_a_post), a [News and Views article](https://www.nature.com/articles/s44221-024-00229-2), and a [Research Brief](https://www.nature.com/articles/d41586-024-03238-z?WT.ec_id=NATURE-202410&sap-outbound-id=C0A6EE7D8C021763B033F8899EC91EC0AF9A7444).
 69) *Rohde, M.M., Stella, J.C., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Albano, C.M. (2024); Establishing ecological thresholds and targets for groundwater management, _Nature Water_, 2:312–323, doi:[10.1038/s44221-024-00221-w](https://doi.org/10.1038/s44221-024-00221-w). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rohde_etal_2024.pdf).
 
 68) *McMahon, C., **Singer, M.B.**, Stella, J.C., Caylor, K., Trugman, A., Roberts, D.A. (2024); A river runs through it: Robust automated mapping of riparian woodlands and land surface phenology across dryland regions, _Remote Sensing of Environment_, 305, 114056, doi:[10.1016/j.rse.2024.114056](https://www.sciencedirect.com/science/article/pii/S0034425724000671). [<span style="color:red">pdf</span>](../assets/pdfs/publications/McMahon_etal_2024.pdf).		
