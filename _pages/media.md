@@ -10,6 +10,13 @@ header:
 excerpt: "Media and blogosphere attention for research by our group."
 ---
 
+*Rohde, M.M., Albano, C.M., Huggins, X., Klausmeyer, K.R., Morton, C., Sharman, A., Zaveri, E., Saito, L., Freed, Z., Howard, J.K., Job, N., Richter, H., Toderich, K., Rodella, A-S., Gleeson, T., Huntington, J., Chandanpurkar, H.A., Purdy, A.J., Famiglietti, J.S., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Stella, J.C. (2024); Groundwater-dependent ecosystem map exposes global dryland protection needs, _Nature_, 632:101–107, doi:[10.1038/s41586-024-07702-8](https://www.nature.com/articles/s41586-024-07702-8
+). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rohde_etal_2024b.pdf).
+
+[Nature Research Brief](https://www.nature.com/articles/d41586-024-03238-z.epdf?sharing_token=zsPm8SYCgSMf25_JFn0wm9RgN0jAjWel9jnR3ZoTv0MU8QlKPMwN_P-xzFvCd-NkbFksEZ-XIxOFMXkCUAU7DCzVI9pkL4H7OwqMrEAca3iY3AAsdYdXJl8Bywo53bZqgKOMRyVPQ1RPUIHTC4E8LAS1ETHcsYwowmK9ErUltAI%3D).
+
+[World Bank Blog post](https://blogs.worldbank.org/en/water/groundwater-is-key-to-protecting-global-ecosystems)
+
 *Rohde, M.M., Stella, J.C., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Albano, C.M. (2024); Establishing ecological thresholds and targets for groundwater management, _Nature Water_, doi:[10.1038/s44221-024-00221-w](https://doi.org/10.1038/s44221-024-00221-w). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rohde_etal_2024.pdf).
 
 [Author Blog Post](https://communities.springernature.com/posts/underfoot-and-overlooked-groundwater-s-key-role-in-ecosystem-resilience?utm_source=user_mailer&utm_medium=email&utm_campaign=notify_contributor_about_creating_a_post)<br>
