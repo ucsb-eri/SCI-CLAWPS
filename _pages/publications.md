@@ -37,7 +37,7 @@ excerpt: "Here is a list of publications by the research group."
 
 ## 2024
 
-77) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (2024); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient, _Ecohydrology_, 952:175916, doi:[10.1002/eco.2729](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024b.pdf).
+77) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (2024-In Press); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient, _Ecohydrology_, 952:175916, doi:[](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024b.pdf).
 
 76) *Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (2024-In Press); Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data, _Journal of Hydrometeorology_, , doi:[](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Cocking_etal_2024.pdf).
 
@@ -50,6 +50,7 @@ excerpt: "Here is a list of publications by the research group."
 72) *Rios Gaona, M.F., **Singer, M.B.**, Michaelides, K. (2024); STORM v.2: A simple, stochastic rainfall model for exploring the impacts of climate and climate change at and near the land surface in gauged watersheds, _Geoscientific Model Development_, 17(13):5387-5412,
 doi:[10.5194/gmd-17-5387-2024](https://gmd.copernicus.org/articles/17/5387/2024/). [<span style="color:red">pdf</span>](../assets/pdfs/publications/RiosGaona_etal_2024.pdf).		
 
+#### The following paper has received [media attention](/media/) and was written up as [World Bank Blog post](https://blogs.worldbank.org/en/water/groundwater-is-key-to-protecting-global-ecosystems) and a [Research Brief](https://www.nature.com/articles/d41586-024-03238-z.epdf?sharing_token=zsPm8SYCgSMf25_JFn0wm9RgN0jAjWel9jnR3ZoTv0MU8QlKPMwN_P-xzFvCd-NkbFksEZ-XIxOFMXkCUAU7DCzVI9pkL4H7OwqMrEAca3iY3AAsdYdXJl8Bywo53bZqgKOMRyVPQ1RPUIHTC4E8LAS1ETHcsYwowmK9ErUltAI%3D).
 71) *Rohde, M.M., Albano, C.M., Huggins, X., Klausmeyer, K.R., Morton, C., Sharman, A., Zaveri, E., Saito, L., Freed, Z., Howard, J.K., Job, N., Richter, H., Toderich, K., Rodella, A-S., Gleeson, T., Huntington, J., Chandanpurkar, H.A., Purdy, A.J., Famiglietti, J.S., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Stella, J.C. (2024); Groundwater-dependent ecosystem map exposes global dryland protection needs, _Nature_, 632:101–107, doi:[10.1038/s41586-024-07702-8](https://www.nature.com/articles/s41586-024-07702-8
 ). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rohde_etal_2024b.pdf).
 
