@@ -33,11 +33,12 @@ excerpt: "Here is a list of publications by the research group."
 	
 79) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
 
-78) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Review); Climatic controls on the length and shape of the world’s drainage basins 		
-
+	
 ## 2024
 
-77) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (2024-In Press); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient, _Ecohydrology_, 952:175916, doi:[](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024b.pdf).
+78) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (2024-In Press); Climatic controls on the length and shape of the world’s drainage basins, _Geophysical Research Letters_, doi[](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Singer_etal_2024.pdf). 	
+
+77) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (2024); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient, _Ecohydrology_, 952:175916, doi:[10.1002/eco.2729](https://onlinelibrary.wiley.com/doi/10.1002/eco.2729). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024b.pdf).
 
 76) *Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (2024-In Press); Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data, _Journal of Hydrometeorology_, , doi:[](). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Cocking_etal_2024.pdf).
 

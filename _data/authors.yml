@@ -279,3 +279,17 @@
     location    : "Bristol, UK"
     avatar      : "assets/images/people/Blake.jpg"
     
+    
+ Isamar Cortes:
+    name        : "Isamar Cortes"
+    bio         : "Postdoctoral Researcher"
+    email       : "cortesi@cardiff.ac.uk"
+    github      : "avanblunk"
+    researchgate: "Isamar-Cortes"
+    google_scholar: "tZJUSRIAAAAJ&hl=en"
+    orcid       : "0000-0002-2833-8914"
+    linkedin    : "isamarcortes"
+    twitter     : "isamarcortes1"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Cortes.jpg"
+    

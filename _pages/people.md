@@ -26,6 +26,10 @@ excerpt: "Past/present people in the SCI-CLAWPS research group."
 [Manuel Rios Gaona]({% link _people/rios.md %}), Postdoctoral Researcher (Advisor), Funding: [EU Horizon 2020 Project DOWN2EARTH](https://cordis.europa.eu/project/id/869550)<br>
 [School of Earth and Environmental Sciences](https://www.cardiff.ac.uk/earth-environmental-sciences) [Cardiff University](https://www.cardiff.ac.uk/)<br>
 
+![Isamar Cortes](../assets/images/people/Cortes.jpg){:class="img-responsive"}<br>
+[Isamar Cortes]({% link _people/cortes.md %}), Postdoctoral Researcher (Advisor), Funding: [EU Horizon 2020 Project DOWN2EARTH](https://cordis.europa.eu/project/id/869550)<br>
+[School of Earth and Environmental Sciences](https://www.cardiff.ac.uk/earth-environmental-sciences) [Cardiff University](https://www.cardiff.ac.uk/)<br>
+
 ![Dagmawi Asfaw](../assets/images/people/Asfaw.jpg){:class="img-responsive"}<br>
 [Dagmawi Asfaw]({% link _people/asfaw.md %}), Postdoctoral Researcher (Co-Advisor), Funding: [The Royal Society](https://royalsociety.org/grants-schemes-awards/grants/challenge-led-grants/)<br>
 [School of Geographical Sciences](http://www.bristol.ac.uk/geography/) [University of Bristol](https://www.bristol.ac.uk/)<br>
