@@ -13,19 +13,21 @@ excerpt: "Here is a list of publications by the research group."
 
 ## In Preparation (for upcoming submission)
 
-87) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
+88) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
 
-86) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
+87) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
 
-85) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 			
+86) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 			
 
-84) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A.; Increased groundwater dependence of riparian vegetation in response to atmospheric drought conditions 		
+85) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A.; Increased groundwater dependence of riparian vegetation in response to atmospheric drought conditions 		
    
 ## In Review/Revision
 
+84) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
+
 83) Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (In Review); Co-produced impact-based seasonal outlooks
 
-82) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); The impact of model resolution on the water balance of a dryland basin
+82) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Revision); The impact of model resolution on the water balance of a dryland basin
 
 81) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
 
@@ -36,7 +38,7 @@ excerpt: "Here is a list of publications by the research group."
 	
 ## 2024
 
-78) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (2024-In Press); Climatic controls on the length and shape of the world’s drainage basins, _Geophysical Research Letters_, doi[](). [<span style="color:red">pdf</span>](). 	
+78) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (2024); Climatic controls on the length and shape of the world’s drainage basins, _Geophysical Research Letters_, doi[](). [<span style="color:red">pdf</span>](). 	
 
 77) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (2024); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient, _Ecohydrology_, 952:175916, doi:[10.1002/eco.2729](https://onlinelibrary.wiley.com/doi/10.1002/eco.2729). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024b.pdf).
 
