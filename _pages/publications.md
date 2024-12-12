@@ -38,7 +38,7 @@ excerpt: "Here is a list of publications by the research group."
 	
 ## 2024
 
-78) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (2024); Climatic controls on the length and shape of the world’s drainage basins, _Geophysical Research Letters_, doi[](). [<span style="color:red">pdf</span>](). 	
+78) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (2024); Climatic controls on the length and shape of the world’s drainage basins, _Geophysical Research Letters_, 51, e2024GL111220, doi:[10.1029/2024GL111220](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL111220). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Singer_etal_2024.pdf). 	
 
 77) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (2024); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient, _Ecohydrology_, 952:175916, doi:[10.1002/eco.2729](https://onlinelibrary.wiley.com/doi/10.1002/eco.2729). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024b.pdf).
 
