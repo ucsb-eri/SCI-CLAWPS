@@ -31,6 +31,8 @@ We are investigating the links between climate, water availability, and the ecoh
 Assessing riparian forest water sources in the Santa Clara River basin. Funded by [The Nature Conservancy](https://www.nature.org/en-us/), **M. Singer (PI)**, J. Stella, _2018-2020_
 
 ## Publications on this research theme include:<br>
+*Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (2024); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient, _Ecohydrology_, 952:175916, doi:[10.1002/eco.2729](https://onlinelibrary.wiley.com/doi/10.1002/eco.2729). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024b.pdf).
+
 *Lochin, P., Malherbe, P., Marteau, B., Godfroy, J., Gerle, F., Marshall, J., Puijalon, S., **Singer, M.B.**, Stella, J.C., Piégay, H., Vernay, A. (2024); The Ant and the Grasshopper: contrasting responses and behaviors to water stress of riparian trees along a hydroclimatic gradient, _Science of the Total Environment_, 952:175916, doi:[10.1016/j.scitotenv.2024.175916](https://www.sciencedirect.com/science/article/pii/S0048969724060728?via%3Dihub), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024.pdf).
 
 *Rohde, M.M., Albano, C.M., Huggins, X., Klausmeyer, K.R., Morton, C., Sharman, A., Zaveri, E., Saito, L., Freed, Z., Howard, J.K., Job, N., Richter, H., Toderich, K., Rodella, A-S., Gleeson, T., Huntington, J., Chandanpurkar, H.A., Purdy, A.J., Famiglietti, J.S., **Singer, M.B.**, Roberts, D.A., Caylor, K.K., Stella, J.C. (2024); Groundwater-dependent ecosystem map exposes global dryland protection needs, _Nature_, doi:[10.1038/s41586-024-07702-8](https://www.nature.com/articles/s41586-024-07702-8
