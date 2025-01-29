@@ -13,15 +13,23 @@ excerpt: "Here is a list of publications by the research group."
 
 ## In Preparation (for upcoming submission)
 
-88) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
+92) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
 
-87) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
+91) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
 
-86) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 			
-
-85) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A.; Increased groundwater dependence of riparian vegetation in response to atmospheric drought conditions 		
+90) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 			
    
 ## In Review/Revision
+
+89) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (In Review), Ecohydrology of Riparian Zones, Invited Book Chapter	
+
+88) Odongo, R., Schrieks, T., Streefkerk, I., de Moel, H., Busker, T., Haer, T., MacLeod, D.A., Michaelides, K., Singer, M.B., Assen, M., Otieno, G., Van Loon, A.F. (In Review); Drought impacts and community adaptation: perspectives on the 2020-2023 drought in East Africa
+
+87) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A. (In Review); Increased groundwater dependence of riparian vegetation in response to drought 	
+
+86) Kibler, C.L., Hall, L.S., Lambert, A.M., Searcy, A.J., Kisner, D., McMahon, C.A., Kui, L., Rohde, M.M., Roberts, D.A., Stella, J.C., **Singer, M.B.** (In Review); Remnant and restored woodlands serve as refugia for sensitive riparian bird species during extreme drought
+
+85) Gebrechorkos, S., Sheffield, J., Vicente-Serrano, S.M., Funk, C., Miralles, D.G., Peng, J., Dyer, E., Talib, J., Beck, H., **Singer, M.B.**, Dadson, S. (In Review); Warming accelerates global drought severity
 
 84) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
 
