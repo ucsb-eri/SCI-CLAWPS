@@ -23,26 +23,27 @@ excerpt: "Here is a list of publications by the research group."
 
 89) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (In Review), Ecohydrology of Riparian Zones, Invited Book Chapter	
 
-88) Odongo, R., Schrieks, T., Streefkerk, I., de Moel, H., Busker, T., Haer, T., MacLeod, D.A., Michaelides, K., Singer, M.B., Assen, M., Otieno, G., Van Loon, A.F. (In Review); Drought impacts and community adaptation: perspectives on the 2020-2023 drought in East Africa
+88) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A. (In Review); Increased groundwater dependence of riparian vegetation in response to drought 	
 
-87) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A. (In Review); Increased groundwater dependence of riparian vegetation in response to drought 	
+87) Kibler, C.L., Hall, L.S., Lambert, A.M., Searcy, A.J., Kisner, D., McMahon, C.A., Kui, L., Rohde, M.M., Roberts, D.A., Stella, J.C., **Singer, M.B.** (In Review); Remnant and restored woodlands serve as refugia for sensitive riparian bird species during extreme drought
 
-86) Kibler, C.L., Hall, L.S., Lambert, A.M., Searcy, A.J., Kisner, D., McMahon, C.A., Kui, L., Rohde, M.M., Roberts, D.A., Stella, J.C., **Singer, M.B.** (In Review); Remnant and restored woodlands serve as refugia for sensitive riparian bird species during extreme drought
+86) Gebrechorkos, S., Sheffield, J., Vicente-Serrano, S.M., Funk, C., Miralles, D.G., Peng, J., Dyer, E., Talib, J., Beck, H., **Singer, M.B.**, Dadson, S. (In Review); Warming accelerates global drought severity
 
-85) Gebrechorkos, S., Sheffield, J., Vicente-Serrano, S.M., Funk, C., Miralles, D.G., Peng, J., Dyer, E., Talib, J., Beck, H., **Singer, M.B.**, Dadson, S. (In Review); Warming accelerates global drought severity
+85) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
 
-84) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
+84) Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (In Review); Co-produced impact-based seasonal outlooks
 
-83) Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (In Review); Co-produced impact-based seasonal outlooks
+83) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Revision); The impact of model resolution on the water balance of a dryland basin
 
-82) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Revision); The impact of model resolution on the water balance of a dryland basin
+82) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
 
-81) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
-
-80) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Revision); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya	
+81) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Revision); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya	
 	
-79) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
+80) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
 
+## 2025
+
+79) Odongo, R., Schrieks, T., Streefkerk, I., de Moel, H., Busker, T., Haer, T., MacLeod, D.A., Michaelides, K., Singer, M.B., Assen, M., Otieno, G., Van Loon, A.F. (2025); Drought impacts and community adaptation: perspectives on the 2020-2023 drought in East Africa, _International Journal of Disaster Risk Reduction_, 119:105309, doi:[10.1016/j.ijdrr.2025.105309](https://www.sciencedirect.com/science/article/pii/S2212420925001335), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Odongo_etal_2025.pdf).
 	
 ## 2024
 
