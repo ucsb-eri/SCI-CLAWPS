@@ -39,9 +39,9 @@ excerpt: "Here is a list of publications by the research group."
 
 81) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Revision); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya	
 	
-80) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Review), GDBM: A database of global drainage basin morphology
-
 ## 2025
+
+80) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (In Press), GDBM: A database of global drainage basin morphology, _PLOS ONE_, 2025, doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Grieve_etal_2025.pdf).
 
 79) Odongo, R., Schrieks, T., Streefkerk, I., de Moel, H., Busker, T., Haer, T., MacLeod, D.A., Michaelides, K., Singer, M.B., Assen, M., Otieno, G., Van Loon, A.F. (2025); Drought impacts and community adaptation: perspectives on the 2020-2023 drought in East Africa, _International Journal of Disaster Risk Reduction_, 119:105309, doi:[10.1016/j.ijdrr.2025.105309](https://www.sciencedirect.com/science/article/pii/S2212420925001335), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Odongo_etal_2025.pdf).
 	
