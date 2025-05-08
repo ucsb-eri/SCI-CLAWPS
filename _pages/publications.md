@@ -38,9 +38,9 @@ excerpt: "Here is a list of publications by the research group."
 
 ## 2025
 
-82) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Press); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, ACM Computing and Sustainable Societies 2025 (COMPASS 2025), , doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rigby_etal_2025.pdf).	
+82) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Press); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, ACM Computing and Sustainable Societies 2025 (COMPASS 2025), , doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Grieve_etal_2025.pdf).	
 	
-81) Gebrechorkos, S., Sheffield, J., Vicente-Serrano, S.M., Funk, C., Miralles, D.G., Peng, J., Dyer, E., Talib, J., Beck, H., **Singer, M.B.**, Dadson, S. (In Press); Warming accelerates global drought severity, _Nature_, , doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Gebrechorkos_etal_2025.pdf).
+81) Gebrechorkos, S., Sheffield, J., Vicente-Serrano, S.M., Funk, C., Miralles, D.G., Peng, J., Dyer, E., Talib, J., Beck, H., **Singer, M.B.**, Dadson, S. (In Press); Warming accelerates global drought severity, _Nature_, , doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Grieve_etal_2025.pdf).
 
 80) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (2025), GDBM: A database of global drainage basin morphology, _PLOS ONE_, 20(4):e0320771, doi:[10:1371/journal.pone.0320771](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320771), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Grieve_etal_2025.pdf).
 
