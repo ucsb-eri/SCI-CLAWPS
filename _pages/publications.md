@@ -21,6 +21,8 @@ excerpt: "Here is a list of publications by the research group."
    
 ## In Review/Revision
 
+90) Blake G., Michaelides K., Kendon E., Cuthbert M., **Singer M.B. (In Review) The Impact of Convection-Permitting Rainfall on the Dryland Water Balance
+
 89) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (In Review), Ecohydrology of Riparian Zones, Invited Book Chapter	
 
 88) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A. (In Review); Increased groundwater dependence of riparian vegetation in response to drought 	
