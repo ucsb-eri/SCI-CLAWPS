@@ -13,7 +13,7 @@ excerpt: "Here is a list of publications by the research group."
 
 ## In Preparation (for upcoming submission)
 
-92) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
+92) *Rios Gaona, M.F., **Singer, M.B.**, *Quichimbo, E.A., *Asfaw, D.T., MacLeod, D.A., Cocking, K., Rosolem, R., Cuthbert, M.O., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
 
 91) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
 
@@ -21,7 +21,7 @@ excerpt: "Here is a list of publications by the research group."
    
 ## In Review/Revision
 
-90) Blake G., Michaelides K., Kendon E., Cuthbert M., **Singer M.B. (In Review) The Impact of Convection-Permitting Rainfall on the Dryland Water Balance
+90) Blake G., Michaelides K., Kendon E., Cuthbert M., **Singer M.B.** (In Review) The Impact of Convection-Permitting Rainfall on the Dryland Water Balance
 
 89) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (In Review), Ecohydrology of Riparian Zones, Invited Book Chapter	
 
