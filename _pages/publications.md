@@ -40,13 +40,13 @@ excerpt: "Here is a list of publications by the research group."
 
 83) Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (2025); Co-produced impact-based seasonal outlooks, _Climate Services_, 38:100579, doi:[10.1016/j.cliser.2025.100579](https://www.sciencedirect.com/science/article/pii/S2405880725000408), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Daron_etal_2025.pdf).
 
-82) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Press); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, ACM Computing and Sustainable Societies 2025 (COMPASS 2025), doi:[10.1145/nnnnnnn.nnnnnnn](https://compass2025.hotcrp.com/doc/compass2025-final47.pdf?cap=hcav47DNfuWCWjDNhBEPRaErsLoDfA), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rigby_etal_2025.pdf).
+82) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (2025); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, ACM Computing and Sustainable Societies 2025 (COMPASS 2025), doi:[10.1145/nnnnnnn.nnnnnnn](https://compass2025.hotcrp.com/doc/compass2025-final47.pdf?cap=hcav47DNfuWCWjDNhBEPRaErsLoDfA), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rigby_etal_2025.pdf).
 	
 81) Gebrechorkos, S., Sheffield, J., Vicente-Serrano, S.M., Funk, C., Miralles, D.G., Peng, J., Dyer, E., Talib, J., Beck, H., **Singer, M.B.**, Dadson, S. (In Press); Warming accelerates global drought severity, _Nature_, , doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Grieve_etal_2025.pdf).
 
 80) Grieve, S.W.D., **Singer, M.B.**, *Chen, S-A., Michaelides, K. (2025), GDBM: A database of global drainage basin morphology, _PLOS ONE_, 20(4):e0320771, doi:[10:1371/journal.pone.0320771](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320771), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Grieve_etal_2025.pdf).
 
-79) Odongo, R., Schrieks, T., Streefkerk, I., de Moel, H., Busker, T., Haer, T., MacLeod, D.A., Michaelides, K., Singer, M.B., Assen, M., Otieno, G., Van Loon, A.F. (2025); Drought impacts and community adaptation: perspectives on the 2020-2023 drought in East Africa, _International Journal of Disaster Risk Reduction_, 119:105309, doi:[10.1016/j.ijdrr.2025.105309](https://www.sciencedirect.com/science/article/pii/S2212420925001335), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Odongo_etal_2025.pdf).
+79) Odongo, R., Schrieks, T., Streefkerk, I., de Moel, H., Busker, T., Haer, T., MacLeod, D.A., Michaelides, K., **Singer, M.B.**, Assen, M., Otieno, G., Van Loon, A.F. (2025); Drought impacts and community adaptation: perspectives on the 2020-2023 drought in East Africa, _International Journal of Disaster Risk Reduction_, 119:105309, doi:[10.1016/j.ijdrr.2025.105309](https://www.sciencedirect.com/science/article/pii/S2212420925001335), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Odongo_etal_2025.pdf).
 	
 ## 2024
 
