@@ -31,16 +31,16 @@ excerpt: "Here is a list of publications by the research group."
 
 86) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
 
-85) Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (In Review); Co-produced impact-based seasonal outlooks
+85) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Revision); The impact of model resolution on the water balance of a dryland basin
 
-84) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Revision); The impact of model resolution on the water balance of a dryland basin
-
-83) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
+84) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
 
 
 ## 2025
 
-82) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Press); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, ACM Computing and Sustainable Societies 2025 (COMPASS 2025), , doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Grieve_etal_2025.pdf).	
+83) Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (2025); Co-produced impact-based seasonal outlooks, _Climate Services_, 38:100579, doi:[10.1016/j.cliser.2025.100579](https://www.sciencedirect.com/science/article/pii/S2405880725000408), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Daron_etal_2025.pdf).
+
+82) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (In Press); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, ACM Computing and Sustainable Societies 2025 (COMPASS 2025), doi:[10.1145/nnnnnnn.nnnnnnn](https://compass2025.hotcrp.com/doc/compass2025-final47.pdf?cap=hcav47DNfuWCWjDNhBEPRaErsLoDfA), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rigby_etal_2025.pdf).
 	
 81) Gebrechorkos, S., Sheffield, J., Vicente-Serrano, S.M., Funk, C., Miralles, D.G., Peng, J., Dyer, E., Talib, J., Beck, H., **Singer, M.B.**, Dadson, S. (In Press); Warming accelerates global drought severity, _Nature_, , doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Grieve_etal_2025.pdf).
 
