@@ -17,11 +17,12 @@ excerpt: "Here is a list of publications by the research group."
 
 91) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
 
-90) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 			
+90) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 	
+		
    
 ## In Review/Revision
 
-90) Blake G., Michaelides K., Kendon E., Cuthbert M., **Singer M.B.** (In Review) The impact of convection-permitting rainfall on the dryland water balance
+90) Blake G., Michaelides K., Kendon E., Cuthbert M., **Singer M.B.** (In Review) The impact of convection-permitting model rainfall on the dryland water balance
 
 89) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (In Review), Ecohydrology of Riparian Zones, Invited Book Chapter	
 
@@ -36,7 +37,7 @@ excerpt: "Here is a list of publications by the research group."
 
 ## 2025
 
-84) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A. (In Press); Increased groundwater dependence of riparian vegetation in response to drought, _Ecohydrology_, doi:[](), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Gebrechorkos_etal_2025.pdf). 
+84) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A. (2-25); Increased groundwater dependence of riparian vegetation in response to drought, _Ecohydrology_, 18(5):e70060, doi:[10.1002/eco.70060](https://onlinelibrary.wiley.com/doi/10.1002/eco.70060), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Kui_etal_2025.pdf). 
 
 83) Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (2025); Co-produced impact-based seasonal outlooks, _Climate Services_, 38:100579, doi:[10.1016/j.cliser.2025.100579](https://www.sciencedirect.com/science/article/pii/S2405880725000408), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Daron_etal_2025.pdf).
 
