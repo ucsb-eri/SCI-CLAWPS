@@ -37,11 +37,11 @@ excerpt: "Here is a list of publications by the research group."
 
 ## 2025
 
-84) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A. (2-25); Increased groundwater dependence of riparian vegetation in response to drought, _Ecohydrology_, 18(5):e70060, doi:[10.1002/eco.70060](https://onlinelibrary.wiley.com/doi/10.1002/eco.70060), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Kui_etal_2025.pdf). 
+84) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A. (2025); Increased groundwater dependence of riparian vegetation in response to drought, _Ecohydrology_, 18(5):e70060, doi:[10.1002/eco.70060](https://onlinelibrary.wiley.com/doi/10.1002/eco.70060), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Kui_etal_2025.pdf). 
 
 83) Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (2025); Co-produced impact-based seasonal outlooks, _Climate Services_, 38:100579, doi:[10.1016/j.cliser.2025.100579](https://www.sciencedirect.com/science/article/pii/S2405880725000408), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Daron_etal_2025.pdf).
 
-82) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (2025); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies: Association for Computing Machinery; 2025: 167–183, doi:[10.1145/3715335.3735464](https://dl.acm.org/doi/10.1145/3715335.3735464), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rigby_etal_2025.pdf).
+82) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (2025); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, _Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies: Association for Computing Machinery_; 2025: 167–183, doi:[10.1145/3715335.3735464](https://dl.acm.org/doi/10.1145/3715335.3735464), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rigby_etal_2025.pdf).
 	
 81) Gebrechorkos, S., Sheffield, J., Vicente-Serrano, S.M., Funk, C., Miralles, D.G., Peng, J., Dyer, E., Talib, J., Beck, H., **Singer, M.B.**, Dadson, S. (2025); Warming accelerates global drought severity, _Nature_, 642:628–635, doi:[10.1038/s41586-025-09047-2](https://www.nature.com/articles/s41586-025-09047-2), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Gebrechorkos_etal_2025.pdf).
 
