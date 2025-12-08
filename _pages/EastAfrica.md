@@ -27,6 +27,14 @@ Mobile phone App Development for Drought Adaptation in Drylands (MADDAD). Funded
 
 ## Publications on this research theme include:<br>
 
+Odongo, R., Schrieks, T., Streefkerk, I., de Moel, H., Busker, T., Haer, T., MacLeod, D.A., Michaelides, K., **Singer, M.B.**, Assen, M., Otieno, G., Van Loon, A.F. (2025); Drought impacts and community adaptation: perspectives on the 2020-2023 drought in East Africa, _International Journal of Disaster Risk Reduction_, 119:105309, doi:[10.1016/j.ijdrr.2025.105309](https://www.sciencedirect.com/science/article/pii/S2212420925001335), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Odongo_etal_2025.pdf).
+
+Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (2025); Co-produced impact-based seasonal outlooks, _Climate Services_, 38:100579, doi:[10.1016/j.cliser.2025.100579](https://www.sciencedirect.com/science/article/pii/S2405880725000408), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Daron_etal_2025.pdf).
+
+*Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (2025); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, _Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies: Association for Computing Machinery_; 2025: 167–183, doi:[10.1145/3715335.3735464](https://dl.acm.org/doi/10.1145/3715335.3735464), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rigby_etal_2025.pdf).
+
+*Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (2024-In Press); Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data, _Journal of Hydrometeorology_, 25:1845–1861, doi:[10.1175/JHM-D-23-0228.1](https://journals.ametsoc.org/view/journals/hydr/25/12/JHM-D-23-0228.1.xml). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Cocking_etal_2024.pdf).
+
 *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (2024); STORM v.2: A simple, stochastic decision-support tool for exploring the impacts of climate, and climate change at and near the land surface in gauged watersheds, _Geoscientific Model Development_, 17(13):5387-5412,
 doi:[10.5194/gmd-17-5387-2024](https://gmd.copernicus.org/articles/17/5387/2024/). [<span style="color:red">pdf</span>](../assets/pdfs/publications/RiosGaona_etal_2024.pdf).	
 
