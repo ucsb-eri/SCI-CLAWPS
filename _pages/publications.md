@@ -24,7 +24,7 @@ excerpt: "Here is a list of publications by the research group."
 
 90) Blake G., Michaelides K., Kendon E., Cuthbert M., **Singer M.B.** (In Review) The impact of convection-permitting model rainfall on the dryland water balance
 
-89) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (In Review), Ecohydrology of Riparian Zones, Invited Book Chapter	
+89) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (In Press), Examining Dynamic Ecohydrology in Dryland Riparian Forests, ed. B. Wilcox, Taylor & Francis, Invited Book Chapter	
 
 88) Kibler, C.L., Hall, L.S., Lambert, A.M., Searcy, A.J., Kisner, D., McMahon, C.A., Kui, L., Rohde, M.M., Roberts, D.A., Stella, J.C., **Singer, M.B.** (In Review); Remnant and restored woodlands serve as refugia for sensitive riparian bird species during extreme drought
 
