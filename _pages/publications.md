@@ -13,29 +13,31 @@ excerpt: "Here is a list of publications by the research group."
 
 ## In Preparation (for upcoming submission)
 
-92) *Rios Gaona, M.F., **Singer, M.B.**, *Quichimbo, E.A., *Asfaw, D.T., MacLeod, D.A., Cocking, K., Rosolem, R., Cuthbert, M.O., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
+93) *Rios Gaona, M.F., **Singer, M.B.**, *Quichimbo, E.A., *Asfaw, D.T., MacLeod, D.A., Cocking, K., Rosolem, R., Cuthbert, M.O., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
 
-91) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
+92) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
 
-90) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 	
+91) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 	
 		
    
 ## In Review/Revision
 
-90) Blake G., Michaelides K., Kendon E., Cuthbert M., **Singer M.B.** (In Review) The impact of convection-permitting model rainfall on the dryland water balance
 
-89) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (In Press), Examining Dynamic Ecohydrology in Dryland Riparian Forests, ed. B. Wilcox, Taylor & Francis, Invited Book Chapter	
 
-88) Kibler, C.L., Hall, L.S., Lambert, A.M., Searcy, A.J., Kisner, D., McMahon, C.A., Kui, L., Rohde, M.M., Roberts, D.A., Stella, J.C., **Singer, M.B.** (In Review); Remnant and restored woodlands serve as refugia for sensitive riparian bird species during extreme drought
+90) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (In Press), Examining Dynamic Ecohydrology in Dryland Riparian Forests, ed. B. Wilcox, Taylor & Francis, Invited Book Chapter	
 
-87) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
+89) Kibler, C.L., Hall, L.S., Lambert, A.M., Searcy, A.J., Kisner, D., McMahon, C.A., Kui, L., Rohde, M.M., Roberts, D.A., Stella, J.C., **Singer, M.B.** (In Review); Remnant and restored woodlands serve as refugia for sensitive riparian bird species during extreme drought
 
-86) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Revision); The impact of model resolution on the water balance of a dryland basin
+88) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
 
-85) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
+87) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Revision); The impact of model resolution on the water balance of a dryland basin
+
+86) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
 
 
 ## 2025
+
+85) *Blake G., Michaelides K., Kendon E., Cuthbert M., **Singer M.B.** (2025) The impact of convection-permitting model rainfall on the dryland water balance, _Hydrology and Earth System Science_, 29(23):7093–125, doi:[10.5194/hess-29-7093-2025](https://hess.copernicus.org/articles/29/7093/2025/), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Blake_etal_2025.pdf).
 
 84) *Kui, L., *Williams, J., **Singer, M.B.**, Stella, J.C., *Kibler, C.L., Dawson, T.E., *Rohde, M.M., Lambert, A.M., Roberts, D.A. (2025); Increased groundwater dependence of riparian vegetation in response to drought, _Ecohydrology_, 18(5):e70060, doi:[10.1002/eco.70060](https://onlinelibrary.wiley.com/doi/10.1002/eco.70060), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Kui_etal_2025.pdf). 
 

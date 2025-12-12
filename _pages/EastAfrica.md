@@ -27,6 +27,8 @@ Mobile phone App Development for Drought Adaptation in Drylands (MADDAD). Funded
 
 ## Publications on this research theme include:<br>
 
+*Blake G., Michaelides K., Kendon E., Cuthbert M., **Singer M.B.** (2025) The impact of convection-permitting model rainfall on the dryland water balance, _Hydrology and Earth System Science_, 29(23):7093–125, doi:[10.5194/hess-29-7093-2025](https://hess.copernicus.org/articles/29/7093/2025/), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Blake_etal_2025.pdf).
+
 Odongo, R., Schrieks, T., Streefkerk, I., de Moel, H., Busker, T., Haer, T., MacLeod, D.A., Michaelides, K., **Singer, M.B.**, Assen, M., Otieno, G., Van Loon, A.F. (2025); Drought impacts and community adaptation: perspectives on the 2020-2023 drought in East Africa, _International Journal of Disaster Risk Reduction_, 119:105309, doi:[10.1016/j.ijdrr.2025.105309](https://www.sciencedirect.com/science/article/pii/S2212420925001335), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Odongo_etal_2025.pdf).
 
 Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., **Singer, M.B.** (2025); Co-produced impact-based seasonal outlooks, _Climate Services_, 38:100579, doi:[10.1016/j.cliser.2025.100579](https://www.sciencedirect.com/science/article/pii/S2405880725000408), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Daron_etal_2025.pdf).
