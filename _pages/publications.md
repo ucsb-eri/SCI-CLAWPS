@@ -11,14 +11,6 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Bold indicates authorship by SCI-CLAWPS group leader ([Singer]({% link _people/singer.md %})). Advisee student and postdoc work denoted by *. 
 
-## In Preparation (for upcoming submission)
-
-93) *Rios Gaona, M.F., **Singer, M.B.**, *Quichimbo, E.A., *Asfaw, D.T., MacLeod, D.A., Cocking, K., Rosolem, R., Cuthbert, M.O., Michaelides, K.; GIRHAF 1.0: Gridded hI-resolution Rainfall for the Horn of AFrica	
-
-92) *Asfaw, D.T., Michaelides, K., Schumacher, M., MacLeod, D.A., Rosolem, R., Cuthbert, M.O., *Quichimbo, E.A., *Rios Gaona, M.F., **Singer, M.B.**; Wetting and drying trends over Africa and implications for the water balance		
-
-91) Washburn, S.J., **Singer, M.B.**, Harrison, L., Hass, L., Clarke, J., Tsui, M.T.K., Blum, J.D., *Myktyn, T., Ulus, Y.; Spatial variation in inundation frequency and duration and Hg dynamics in a large, fluvial wetland 	
-		
    
 ## In Review/Revision
 
@@ -28,7 +20,7 @@ excerpt: "Here is a list of publications by the research group."
 
 89) Kibler, C.L., Hall, L.S., Lambert, A.M., Searcy, A.J., Kisner, D., McMahon, C.A., Kui, L., Rohde, M.M., Roberts, D.A., Stella, J.C., **Singer, M.B.** (In Review); Remnant and restored woodlands serve as refugia for sensitive riparian bird species during extreme drought
 
-88) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
+88) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
 
 87) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Revision); The impact of model resolution on the water balance of a dryland basin
 
