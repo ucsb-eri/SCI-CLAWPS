@@ -26,7 +26,7 @@ excerpt: "Here is a list of publications by the research group."
 
 ## 2026
 
-86) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (2026), Examining Dynamic Ecohydrology in Dryland Riparian Forests, In Routledge Handbook of Terrestrial Ecohydrology, ed. B. Wilcox, Taylor & Francis, Invited Book Chapter, pp319–330, doi:[10.4324/9781003383918](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003383918-29/examining-dynamic-ecohydrology-dryland-riparian-forests-michael-singer-john-stella-dar-roberts-kelly-caylor?context=ubx&refId=06dd80b6-ca48-4cea-bf3e-9764b23f8b99), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Singer_etal_2026.pdf). 	
+86) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (2026), Examining Dynamic Ecohydrology in Dryland Riparian Forests, In _Routledge Handbook of Terrestrial Ecohydrology_, eds. Wilcox, Asbjornsen, Creed, Wang, Smettem, pp.319–330, doi:[10.4324/9781003383918](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003383918-29/examining-dynamic-ecohydrology-dryland-riparian-forests-michael-singer-john-stella-dar-roberts-kelly-caylor?context=ubx&refId=06dd80b6-ca48-4cea-bf3e-9764b23f8b99), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Singer_etal_2026.pdf). 	
 
 ## 2025
 
