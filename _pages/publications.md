@@ -14,18 +14,19 @@ excerpt: "Here is a list of publications by the research group."
    
 ## In Review/Revision
 
+91) **Singer, M.B.**, *Quichimbo, E.A., Asfaw, D.T., *Gul, M.S.A., Michaelides, K. (In Review); Supercharged flood hazard potential fueled by compounding trends in climate and irrigation
 
+90) Kibler, C.L., Hall, L.S., Lambert, A.M., Searcy, A.J., Kisner, D., McMahon, C.A., Kui, L., Rohde, M.M., Roberts, D.A., Stella, J.C., **Singer, M.B.** (In Review); Remnant and restored woodlands serve as refugia for sensitive riparian bird species during extreme drought
 
-90) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (In Press), Examining Dynamic Ecohydrology in Dryland Riparian Forests, ed. B. Wilcox, Taylor & Francis, Invited Book Chapter	
+89) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
 
-89) Kibler, C.L., Hall, L.S., Lambert, A.M., Searcy, A.J., Kisner, D., McMahon, C.A., Kui, L., Rohde, M.M., Roberts, D.A., Stella, J.C., **Singer, M.B.** (In Review); Remnant and restored woodlands serve as refugia for sensitive riparian bird species during extreme drought
+88) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Revision); The impact of model resolution on the water balance of a dryland basin
 
-88) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
+87) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
 
-87) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Revision); The impact of model resolution on the water balance of a dryland basin
+## 2026
 
-86) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
-
+86) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (2026), Examining Dynamic Ecohydrology in Dryland Riparian Forests, In Routledge Handbook of Terrestrial Ecohydrology, ed. B. Wilcox, Taylor & Francis, Invited Book Chapter, pp319–330, doi:[10.4324/9781003383918](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003383918-29/examining-dynamic-ecohydrology-dryland-riparian-forests-michael-singer-john-stella-dar-roberts-kelly-caylor?context=ubx&refId=06dd80b6-ca48-4cea-bf3e-9764b23f8b99), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Singer_etal_2026.pdf). 	
 
 ## 2025
 
@@ -49,7 +50,7 @@ excerpt: "Here is a list of publications by the research group."
 
 77) *Lochin, P., Piégay, H., Stella, J.C., Caylor, K.K., Vaudor, L., **Singer, M.B.** (2024); Drivers of spatiotemporal patterns of riparian forest NDVI along a hydroclimatic gradient, _Ecohydrology_, 952:175916, doi:[10.1002/eco.2729](https://onlinelibrary.wiley.com/doi/10.1002/eco.2729). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024b.pdf).
 
-76) *Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (2024-In Press); Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data, _Journal of Hydrometeorology_, 25:1845–1861, doi:[10.1175/JHM-D-23-0228.1](https://journals.ametsoc.org/view/journals/hydr/25/12/JHM-D-23-0228.1.xml). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Cocking_etal_2024.pdf).
+76) *Cocking, K., **Singer, M.B.**, MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (2024); Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data, _Journal of Hydrometeorology_, 25:1845–1861, doi:[10.1175/JHM-D-23-0228.1](https://journals.ametsoc.org/view/journals/hydr/25/12/JHM-D-23-0228.1.xml). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Cocking_etal_2024.pdf).
 
 75) *Lochin, P., Malherbe, P., Marteau, B., Godfroy, J., Gerle, F., Marshall, J., Puijalon, S., **Singer, M.B.**, Stella, J.C., Piégay, H., Vernay, A. (2024); The Ant and the Grasshopper: contrasting responses and behaviors to water stress of riparian trees along a hydroclimatic gradient, _Science of the Total Environment_, 952:175916, doi:[10.1016/j.scitotenv.2024.175916](https://www.sciencedirect.com/science/article/pii/S0048969724060728?via%3Dihub). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Lochin_etal_2024.pdf).
 
