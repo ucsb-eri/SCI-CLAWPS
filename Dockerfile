@@ -1,5 +1,5 @@
 # Use Jekyll image to build the website
-FROM jekyll/jekyll:latest as builder
+FROM jekyll/jekyll:4.2.2 as builder
 
 # Set working directory
 RUN mkdir /app && chown -R jekyll:jekyll /app
