@@ -20,11 +20,11 @@ excerpt: "Here is a list of publications by the research group."
 
 89) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Cuthbert, M.O. (In Review); DRYP 2.0: A regional model for simulating the water balance across an aridity gradient
 
-88) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Revision); The impact of model resolution on the water balance of a dryland basin
-
-87) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
+88) Kipkemoi, I., Michaelides, K., Rosolem, R., **Singer, M.B.** (In Revision); Impacts of rainfall temporal resolution and intensity on soil moisture dynamics and the water balance in drylands  
 
 ## 2026
+
+87) *Quichimbo, E.A., **Singer, M.B.**, Michaelides, K., Rosolem, R., Cuthbert, M.O. (In Press); The impact of model resolution on the water balance of a dryland basin, _Hydrological Processes_, 
 
 86) **Singer, M.B.**, Stella, J.C., Roberts, D.A., Caylor, K. (2026), Examining Dynamic Ecohydrology in Dryland Riparian Forests, In _Routledge Handbook of Terrestrial Ecohydrology_, eds. Wilcox, Asbjornsen, Creed, Wang, Smettem, pp.319–330, doi:[10.4324/9781003383918](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003383918-29/examining-dynamic-ecohydrology-dryland-riparian-forests-michael-singer-john-stella-dar-roberts-kelly-caylor?context=ubx&refId=06dd80b6-ca48-4cea-bf3e-9764b23f8b99), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Singer_etal_2026.pdf). 	
 
