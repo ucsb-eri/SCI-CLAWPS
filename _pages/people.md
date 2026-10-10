@@ -19,8 +19,34 @@ excerpt: "Past/present people in the SCI-CLAWPS research group."
 
 <br>
 ![Andrés Quichimbo](../assets/images/people/Quichimbo2.jpg){:class="img-responsive"}<br>
-[Andrés Quichimbo]({% link _people/quichimbo.md %}), Postdoctoral Researcher (Advisor), Funding: [EU Horizon 2020 Project DOWN2EARTH](https://cordis.europa.eu/project/id/869550)<br>
-[School of Earth and Environmental Sciences](https://www.cardiff.ac.uk/earth-environmental-sciences) [Cardiff University](https://www.cardiff.ac.uk/)<br>
+[Andrés Quichimbo]({% link _people/quichimbo.md %}), Postdoctoral Researcher (Advisor), Funding: [EU Marie Skłodowska-Curie Actions (MSCA) project HYDROAWARE AFRICA](https://cordis.europa.eu/project/id/101209082)<br>
+[Department of Earth and Environmental Sciences](https://www.cardiff.ac.uk/earth-environmental-sciences) [Cardiff University](https://www.cardiff.ac.uk/)<br>
+
+![Katherine Cocking](../assets/images/people/Cocking.jpg){:class="img-responsive"}<br>
+[Katherine Cocking]({% link _people/cocking.md %}), Postdoctoral Researcher (Advisor), Funding: [EU Horizon Europe Project CAPA](https://cordis.europa.eu/project/id/101296180)<br>
+[Department of of Earth and Environmental Sciences](https://www.cardiff.ac.uk/earth-environmental-sciences) [Cardiff University](https://www.cardiff.ac.uk/)<br>
+
+## Current PhD Students 
+#### (Singer's role in parentheses)
+
+<br>
+![Muhammad Ali](../assets/images/people/Ali.jpg){:class="img-responsive"}<br>
+[George Blake](https://flood-cdt.ac.uk/phd-researchers-cohort-1), PhD (Co-Advisor), Funding: [NERC Flood Centre for Doctoral Training](https://flood-cdt.ac.uk/)<br>
+[School of Geographical Sciences](http://www.bristol.ac.uk/geography/), [University of Bristol](http://www.bristol.ac.uk).<br>
+**Thesis: Assessing surface water availability in the Horn of Africa Drylands** (_2025-_)
+
+![George Blake](../assets/images/people/Blake.jpg){:class="img-responsive"}<br>
+[George Blake]({% link _people/blake.md %}), PhD (Co-Advisor), Funding: [NERC GW4 Doctoral Training Programme](https://www.nercgw4plus.ac.uk/)<br>
+[School of Geographical Sciences](http://www.bristol.ac.uk/geography/), [University of Bristol](http://www.bristol.ac.uk).<br>
+**Thesis: Assessing climate forcing of the water cycle in the Horn of Africa Drylands** (_2022-_)
+
+![Jared Williams](../assets/images/people/Williams.png){:class="img-responsive"}<br>
+[Jared Williams]({% link _people/williams.md %}), PhD (Co-Advisor), Funding: [National Science Foundation Geography & Spatial Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505034)<br>
+[SUNY-ESF](https://www.esf.edu/) <br>
+**Thesis: Water use and plant growth in a multiple-use basin** (_2018-_)
+
+ 
+## Past Postdoctoral Researchers
 
 ![Manuel Rios Gaona](../assets/images/people/Rios.jpg){:class="img-responsive"}<br>
 [Manuel Rios Gaona]({% link _people/rios.md %}), Postdoctoral Researcher (Advisor), Funding: [EU Horizon 2020 Project DOWN2EARTH](https://cordis.europa.eu/project/id/869550)<br>
@@ -33,35 +59,6 @@ excerpt: "Past/present people in the SCI-CLAWPS research group."
 ![Dagmawi Asfaw](../assets/images/people/Asfaw.jpg){:class="img-responsive"}<br>
 [Dagmawi Asfaw]({% link _people/asfaw.md %}), Postdoctoral Researcher (Co-Advisor), Funding: [The Royal Society](https://royalsociety.org/grants-schemes-awards/grants/challenge-led-grants/)<br>
 [School of Geographical Sciences](http://www.bristol.ac.uk/geography/) [University of Bristol](https://www.bristol.ac.uk/)<br>
-
-## Current PhD Students 
-#### (Singer's role in parentheses)
-
-<br>
-![George Blake](../assets/images/people/Blake.jpg){:class="img-responsive"}<br>
-[George Blake]({% link _people/blake.md %}), PhD (Co-Advisor), Funding: [NERC GW4 Doctoral Training Programme](https://www.nercgw4plus.ac.uk/)<br>
-[School of Geographical Sciences](http://www.bristol.ac.uk/geography/), [University of Bristol](http://www.bristol.ac.uk).<br>
-**Thesis: Assessing climate forcing of the water cycle in the Horn of Africa Drylands** (_2022-_)
-
-![Katherine Cocking](../assets/images/people/Cocking.jpg){:class="img-responsive"}<br>
-[Katherine Cocking]({% link _people/cocking.md %}), PhD (Primary Advisor), Funding: College of Physical Sciences and Engineering, Cardiff University<br>
-[School of Earth & Environmental Sciences](https://www.cardiff.ac.uk/earth-environmental-sciences), [Cardiff University](https://www.cardiff.ac.uk)<br>
-**Thesis: Climate change projections and impacts in the Horn of Africa Drylands** (_2021-_)
-
-![Conor McMahon](../assets/images/people/McMahon.jpg){:class="img-responsive"}
-<br>[Conor McMahon]({% link _people/mcmahon.md %}), PhD (Co-Advisor), Funding: [Strategic Environmental Research and Development Program (US Department of Defense)](https://www.serdp-estcp.org/)<br>
-[Department of Geography](https://geog.ucsb.edu/), [UC Santa Barbara](https://www.ucsb.edu/)<br>
-**Thesis: Fractional pixel signature of riparian forest stress in response to water availability** (_2019-_)
-
-![Jared Williams](../assets/images/people/Williams.png){:class="img-responsive"}<br>
-[Jared Williams]({% link _people/williams.md %}), PhD (Co-Advisor), Funding: [National Science Foundation Geography & Spatial Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505034)<br>
-[SUNY-ESF](https://www.esf.edu/) <br>
-**Thesis: Water use and plant growth in a multiple-use basin** (_2018-_)
-
-## Current Masters Students
-
- 
-## Past Postdoctoral Researchers
 
 ![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
 [Jacob Rigby]({% link _people/rigby.md %}), Postdoctoral Researcher (Co-Advisor), Funding: [Global Challenges Research Fund](https://www.ukri.org/research/global-challenges-research-fund/)<br>
@@ -80,6 +77,16 @@ excerpt: "Past/present people in the SCI-CLAWPS research group."
 [Earth Research Insitute](https://eri.ucsb.edu/), [UC Santa Barbara](https://www.ucsb.edu/)<br>
 
 ## Past Graduate Students (PhD and Masters)
+
+![Katherine Cocking](../assets/images/people/Cocking.jpg){:class="img-responsive"}<br>
+[Katherine Cocking]({% link _people/cocking.md %}), PhD (Primary Advisor), Funding: College of Physical Sciences and Engineering, Cardiff University<br>
+[School of Earth & Environmental Sciences](https://www.cardiff.ac.uk/earth-environmental-sciences), [Cardiff University](https://www.cardiff.ac.uk)<br>
+**Thesis: Climate change projections and impacts in the Horn of Africa Drylands** (_2021-2026_)
+
+![Conor McMahon](../assets/images/people/McMahon.jpg){:class="img-responsive"}
+<br>[Conor McMahon]({% link _people/mcmahon.md %}), PhD (Co-Advisor), Funding: [Strategic Environmental Research and Development Program (US Department of Defense)](https://www.serdp-estcp.org/)<br>
+[Department of Geography](https://geog.ucsb.edu/), [UC Santa Barbara](https://www.ucsb.edu/)<br>
+**Thesis: Fractional pixel signature of riparian forest stress in response to water availability** (_2019-2026_)
 
 ![Pierre Lochin](../assets/images/people/Lochin.jpg){:class="img-responsive"}<br>
 [Pierre Lochin]({% link _people/lochin.md %}), PhD (Co-Advisor), Funding: [H2O'Lyon](https://h2olyon.universite-lyon.fr/h2o-90225.kjsp)<br>
